@@ -1,0 +1,21 @@
+{
+  "name": "jsx-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.13.2",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
